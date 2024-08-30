@@ -1,15 +1,11 @@
 package main
 
 type address struct {
-	
-	state string
-	city string
+	state   string
+	city    string
 	zipcode int
-
 }
 
 func main() {
-
-
 
 }
