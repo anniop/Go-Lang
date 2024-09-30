@@ -15,6 +15,6 @@ To get started with the programs in this repository, you'll need to have Go inst
 Once you have Go installed, you can clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/go-programming-concepts.git
-cd go-programming-concepts
+git clone https://github.com/anniop/Go-Lang.git
+cd Go-Lang
 
